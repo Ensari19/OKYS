@@ -1,0 +1,6 @@
+OKYS - YAZILIM GEREKSİNİM BELGESİ (SRS)
+
+1. Sistemde kitaplar ve kitapların fiziksel kopyaları tanımlanabilmelidir.
+2. Kullanıcılar sisteme kaydedilebilmelidir.
+3. Kullanıcı rafta uygun olan bir kopyayı ödünç alabilmelidir.
+4. Ödünç alınan kitap kopyası teslim edildiğinde sistemde durumu güncellenmelidir.
